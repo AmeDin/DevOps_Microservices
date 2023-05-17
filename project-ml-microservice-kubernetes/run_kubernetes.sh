@@ -16,4 +16,4 @@ kubectl run microproj --image=amedin/microproj:v1.0.0 --port=80 --labels app=mic
 kubectl get pods
 # Step 4:
 # Forward the container port to a host
-kubectl port-forward microproject 8000:80
+kubectl port-forward microproj 8000:80
