@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![AmeDin](https://circleci.com/gh/AmeDin/DevOps_Microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/AmeDin/DevOps_Microservices)
 
 ## Project Overview
 
