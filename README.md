@@ -54,6 +54,8 @@ source .devops/bin/activate
 
 ## Instructions on how it was done by me below
 
+https://github.com/AmeDin/DevOps_Microservices
+
 # Create ec2 with ubuntu 22 04
 
 # update and upgrade dependencies
